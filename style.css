@@ -1,0 +1,35 @@
+body {
+  background: rgb(70, 142, 236);
+  font: normal 15pt "Ubuntu", sans-serif;
+}
+
+header {
+  color: white;
+  text-align: center; /* Centralizar o texto */
+}
+
+section {
+  background: white;
+  border-radius: 10px; /* Bordas arredondadas */
+  padding: 50px; /* Distância entre as bordas e o conteúdo */
+  width: 50px; /* Largura da área, no caso a caixa */
+
+  margin: auto;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+}
+
+div {
+  text-align: center;
+  padding: 9px;
+}
+
+li {
+  display: inline; /* Coloca os itens lado a lado */
+  flex-wrap: wrap; /* Quando não há espaço na tela, os itens seguintes vão pra baixo */
+}
+
+footer {
+  color: white;
+  text-align: center; /* Centralizar o texto */
+  font-size: italic;
+}

@@ -1,0 +1,19 @@
+{
+  "pokemon": [
+    { "Grass": "77C750" },
+    { "Poison": "#4f3a56" },
+    { "Fire": "#f75231" },
+    { "Flying": "#9cadf7" },
+    { "Water": "#4fa7ff" },
+    { "Bug": "#adbd21" },
+    { "Normal": "#ada594" },
+    { "Electric": "#fec634" },
+    { "Ground": "#b49343" },
+    { "Fighting": "#a55239" },
+    { "Psychic": "#ee6f9c" },
+    { "Rock": "#bda55a" },
+    { "Ice": "#67d2e9" },
+    { "Ghost": "#6363b5" },
+    { "Dragon": "#9987eb" }
+  ]
+}
