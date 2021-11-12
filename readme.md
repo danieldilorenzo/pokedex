@@ -43,7 +43,7 @@ Com isso, desejo obter conhecimentos nas áreas de HTML, CSS e JavaScript a fim 
 
 - [Projeto Pokemon Data](https://tangy-newsboy-925.notion.site/Pok-mon-Data-a9632a2789644723b3c1bf1cdefb6e1e "Pokemon Data")
 
-- [Github do projeto](https://github.com/danieldilorenzo/CursoJavascript/tree/main/PokemonRandomizer "Projeto")
+- [Github do projeto](https://github.com/danieldilorenzo/pokedex "Projeto")
 
 - [Figma (ainda a fazer)]('')
   <br><br>
