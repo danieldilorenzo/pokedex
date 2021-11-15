@@ -1,6 +1,6 @@
 {
   "pokemon": [
-    { "Grass": "77C750" },
+    { "Grass": "#77C750" },
     { "Poison": "#4f3a56" },
     { "Fire": "#f75231" },
     { "Flying": "#9cadf7" },

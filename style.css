@@ -13,7 +13,6 @@ section {
   border-radius: 10px; /* Bordas arredondadas */
   padding: 50px; /* Distância entre as bordas e o conteúdo */
   width: 50px; /* Largura da área, no caso a caixa */
-
   margin: auto;
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
 }
@@ -22,10 +21,29 @@ div {
   text-align: center;
   padding: 9px;
 }
+.row {
+  width: 400px;
+  height: 300;
+  /* padding: 2px; */
+  border: 3px solid rgb(0, 0, 0);
+  margin: auto;
+}
 
 li {
   display: inline; /* Coloca os itens lado a lado */
   flex-wrap: wrap; /* Quando não há espaço na tela, os itens seguintes vão pra baixo */
+}
+.button {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
 }
 
 footer {
