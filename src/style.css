@@ -2,12 +2,10 @@ body {
   background: rgb(139, 191, 226);
   font: normal 15pt "Ubuntu", sans-serif;
 }
-
 header {
   color: white;
   text-align: center; /* Centralizar o texto */
 }
-
 section {
   background: white;
   border-radius: 10px; /* Bordas arredondadas */
@@ -16,7 +14,6 @@ section {
   margin: auto;
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
 }
-
 div {
   text-align: center;
   padding: 9px;
@@ -28,7 +25,6 @@ div {
   /* border: 3px solid rgb(0, 0, 0); */
   margin: auto;
 }
-
 li {
   display: inline; /* Coloca os itens lado a lado */
   flex-wrap: wrap; /* Quando não há espaço na tela, os itens seguintes vão pra baixo */
@@ -49,13 +45,8 @@ li {
   display: flex;
   flex-wrap: wrap;
 }
-
 footer {
   color: white;
   text-align: center; /* Centralizar o texto */
   font-size: italic;
-}
-
-.namepkm {
-  color: black;
 }
