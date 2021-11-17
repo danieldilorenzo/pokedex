@@ -1,5 +1,5 @@
 body {
-  background: rgb(70, 142, 236);
+  background: rgb(139, 191, 226);
   font: normal 15pt "Ubuntu", sans-serif;
 }
 
@@ -21,11 +21,11 @@ div {
   text-align: center;
   padding: 9px;
 }
-.row {
+.card {
   width: 400px;
   height: 300;
   /* padding: 2px; */
-  border: 3px solid rgb(0, 0, 0);
+  /* border: 3px solid rgb(0, 0, 0); */
   margin: auto;
 }
 
@@ -45,9 +45,17 @@ li {
   cursor: pointer;
   border-radius: 16px;
 }
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
 
 footer {
   color: white;
   text-align: center; /* Centralizar o texto */
   font-size: italic;
+}
+
+.namepkm {
+  color: black;
 }

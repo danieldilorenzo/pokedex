@@ -10,29 +10,28 @@
   <body>
     <header><h1>Pokedex</h1></header>
     <div>
+     <div class="container"> <!-- não deletar -->
+           <div class="card">
+          <img src="http://www.serebii.net/pokemongo/pokemon/001.png" alt="">
+          <p class="namepkm">Função aleatória que pega o nome</p>
+          <ol>
+            <li class="button" style="background-color: #77C750;">Grass</li> <!-- Lista de tipos -->
+            <li class="button"style="background-color: #4f3a56;">Poison</li>
+          </ol>
+        </div>
+            <!--
+            OK - como acessar data json (printar no console log)
+            como pegar somente os dados do primeiro card(printar no console log)
+            Como pegar somente nome
+            Como criar um card com dados dinâmicos
+            -->
 
-      <div class="container"> <!-- não deletar -->
-        <div class="row">
-          <img src="http://www.serebii.net/pokemongo/pokemon/001.png" alt="">
-          <p id=name style="color: black;">Bulbasaur</p>
-          <ol>
-            <li class="button" style="background-color: #77C750;">Grass</li> <!-- Lista de tipos -->
-            <li class="button"style="background-color: #4f3a56;">Poison</li>
-          </ol>
-          
-        </div>
-         <div class="container"> <!-- não deletar -->
-        <div class="row">
-          <img src="http://www.serebii.net/pokemongo/pokemon/001.png" alt="">
-          <p id=name style="color: black;">Bulbasaur</p>
-          <ol>
-            <li class="button" style="background-color: #77C750;">Grass</li> <!-- Lista de tipos -->
-            <li class="button"style="background-color: #4f3a56;">Poison</li>
-          </ol>
-          
-        </div>
+        
     <!-- <footer><p>Daniel</p></footer> -->
 
     <script src="script.js"></script>
+    <!-- <script type="text/javascript" src="pokemon.json"></script>
+    <script type="text/javascript" src="types.json"></script> -->
+
   </body>
 </html>
